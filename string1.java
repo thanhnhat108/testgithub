@@ -3,5 +3,6 @@ public class string1 {
         String greetings = "Hello"; 
         String s = greetings.substring(1,1);
         System.out.print(s);
+        System.out.print("hello");
     }
 }
